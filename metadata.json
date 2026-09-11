@@ -1,0 +1,10 @@
+{
+  "name": "MedSync – Hospital Management System",
+  "description": "Enterprise Multi-Tenant Hospital & Clinic Management SaaS featuring clinical EHR, appointments, pharmacy, laboratory, radiology, billing, and Super Admin analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
